@@ -53,9 +53,6 @@ Total time: 15-30 minutes.
 
 Same flow, but you'll save files and run git commands manually. The AI tells you exactly what to type.
 
-### Brand new to terminals?
-
-Read [`docs/getting-started-non-developer.md`](docs/getting-started-non-developer.md) first. It walks you through installing a friendly terminal app (Warp), setting up git, and getting your first AI coding session running.
 
 ## What you get
 
@@ -107,13 +104,6 @@ You can upgrade or downgrade later as your project evolves.
 
 Web AIs work fine but require manual file-saving and command execution.
 
-## Examples
-
-See [`examples/`](examples/) for real-world walkthroughs:
-- [Solo developer building a Python automation](examples/01-python-automation.md)
-- [Non-developer building a business website](examples/02-non-developer-website.md)
-- [Indie hacker building a SaaS MVP](examples/03-saas-mvp.md)
-- [Small team adopting on existing codebase](examples/04-small-team-existing-code.md)
 
 ## Why this framework exists
 
@@ -131,18 +121,6 @@ This framework is what I built for myself. The discipline I learned to apply aft
 ## License
 
 MIT License — free to use, fork, modify, redistribute. See [LICENSE](LICENSE) for details.
-
-## Contributing
-
-Found a bug? Want to add a preset? Improve the discovery questions? Issues and Pull Requests welcome.
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-## Premium bundle (optional)
-
-The framework is free here forever. If you want extras — video walkthrough, Notion templates, pre-filled decision docs for common scenarios, email support.
-
-The free version is fully functional. The premium bundle is for people who want faster onboarding.
 
 ## Acknowledgments
 
