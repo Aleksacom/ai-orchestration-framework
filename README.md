@@ -140,7 +140,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## Premium bundle (optional)
 
-The framework is free here forever. If you want extras — video walkthrough, Notion templates, pre-filled decision docs for common scenarios, email support — see the premium bundle on [Gumroad / link].
+The framework is free here forever. If you want extras — video walkthrough, Notion templates, pre-filled decision docs for common scenarios, email support.
 
 The free version is fully functional. The premium bundle is for people who want faster onboarding.
 
