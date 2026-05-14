@@ -104,6 +104,18 @@ You can upgrade or downgrade later as your project evolves.
 
 Web AIs work fine but require manual file-saving and command execution.
 
+## For Claude Code users — full automation available
+
+If you specifically use Claude Code, there's a companion repo with pre-built 
+sub-agents that fully automate the framework:
+
+→ [Claude Code Orchestration Agents](https://github.com/Aleksacom/claude-code-orchestration-agents)
+
+Includes cm-planner, cm-decider, reviewer, conventions-audit, test-author 
+sub-agents plus a `/change` slash command. Drops into any project in 15 minutes.
+
+For Kimi CLI, Cursor, ChatGPT, or other tools — use this repo's `setup-prompt.md`.
+
 
 ## Why this framework exists
 
