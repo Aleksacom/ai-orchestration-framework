@@ -116,6 +116,12 @@ sub-agents plus a `/change` slash command. Drops into any project in 15 minutes.
 
 For Kimi CLI, Cursor, ChatGPT, or other tools — use this repo's `setup-prompt.md`.
 
+## Tool-specific implementations
+
+   | AI tool | Repo |
+   |---------|------|
+   | Kimi CLI | [kimi-orchestration-bootstrap](https://github.com/Aleksacom/kimi-orchestration-bootstrap) |
+   | Claude Code | [claude-code-orchestration-agents](https://github.com/Aleksacom/claude-code-orchestration-agents) |
 
 ## Why this framework exists
 
